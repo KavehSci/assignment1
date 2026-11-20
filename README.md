@@ -10,4 +10,4 @@ _Note: Feel free to create a fictional gene sequence by randomly filling in the 
 |:---|:---|:---|
 |KAVEH MASOUMİ|[@KavehSci](https://github.com/KavehSci)|[question1.md](question1.md)|
 |HASAN AYDIN|[@Hasanaydiniu](https://github.com/Hasanaydiniu)|[question2_hasan.md](question2_hasan.md)|
-|KEMAL ODABAŞ|[@odabask](https://github.com/odabask)||
+|KEMAL ODABAŞ|[@odabask](https://github.com/odabask)|[question2_kemal.md](question2_kemal.md)|
